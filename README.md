@@ -1,2 +1,2 @@
 # waminakiyani.github.io
-g oye
+# g oye
