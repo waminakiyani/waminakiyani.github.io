@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.0.0/uicons-brands/css/uicons-brands.css'>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="contact.html" />
+  <script src="https://kit.fontawesome.com/63ded2634b.js" crossorigin="anonymous"></script>
+  <title>Be Consistant</title>
+</head>
+
+<body>
+  <div class="marq">
+    <marquee behavior="" direction="" scrollamount="10">BE CONSISTANT LEARN FULL STACK WEB DEVELOPMENT IN 6 MONTHS
+      (ILTIJA
+      HUSSAIN) | Start date (1 NOV 2023)
+    </marquee>
+  </div>
+  <a href="contact.html" class="contact_btn" target="_blank">Contact US</a>
+  <h1 align="center" class="Title_1">Salam Dubai</h1>
+  <br /><br />
+
+  <div class="p1">
+    <h3>
+      Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in
+      45 BC
+    </h3>
+    <p>
+      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+      accusantium doloremque laudantium, totam rem aperiam,
+      <b>
+        eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
+        vitae dicta sunt explicabo.</b>
+      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
+      fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem
+      sequi nesciunt. <s> Neque porro quisquam est,</s> qui dolorem ipsum quia
+      dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius
+      modi tempora incidunt ut labore et dolore magnam aliquam quaerat
+      voluptatem. Ut enim ad minima veniam,
+      <u> quis nostrum exercitationem </u>ullam corporis suscipit laboriosam,
+      nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure
+      reprehenderit qui in ea voluptate velit esse quam nihil molestiae
+      consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla
+      pariatur?"
+    </p>
+  </div>
+
+  <div class="ulist">
+    <ul type="square">
+      <li>Apple</li>
+      <li>Banana</li>
+      <li>Grappes</li>
+      <li>Mango</li>
+    </ul>
+  </div>
+  <div class="olist">
+    <ol type="I">
+      <li>Apple</li>
+      <li>Banana</li>
+      <li>Grappes</li>
+      <li>Mango</li>
+    </ol>
+  </div>
+
+  <table class="table1" border="1" cellspacing="0" cellpadding="20px">
+    <thead>
+      <td>No.</td>
+      <td>Class</td>
+      <td>Student Name</td>
+      <td>Roll No.</td>
+    </thead>
+    <tr>
+      <td>1</td>
+      <td>12 <sup>th</sup> Grad</td>
+      <td>Iltija Hussain</td>
+      <td>348293</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>12 <sup>th</sup> Grad</td>
+      <td>Mohsin Sidique</td>
+      <td>3482345</td>
+    </tr>
+  </table>
+  <br />
+  <table class="table2" border="1" cellspacing="0" cellpadding="20px">
+    <caption>
+      Student Records
+    </caption>
+    <tr>
+      <td>A</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only
+        five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with
+        the release of Letraset sheets containing Lorem Ipsum passages, and
+        more recently with desktop publishing software like Aldus PageMaker
+        including versions of Lorem Ipsum.
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only
+        five centuries, but also the leap into electronic typesetting,
+      </td>
+      <td>
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only
+        five centuries, but also the leap into electronic typesetting,
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and
+        scrambled it to make a type specimen book. It has survived not only
+        five centuries, but also the leap into electronic typesetting,
+      </td>
+    </tr>
+  </table>
+  <!--  Table website layout-->
+  <table border="1" class="table3" cellspacing="0" cellpadding="20px">
+    <tr bgcolor="pink">
+      <td colspan="2">
+        <h1>AI Tools Blog</h1>
+      </td>
+    </tr>
+    <tr bgcolor="orange">
+      <td colspan="2">
+        <a href="">Home</a> | <a href="">Facebook</a> |
+        <a href="">Youtube</a> | <a href="">Contact Us</a> |
+        <a href="">About Us</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="80%" width="400px">
+        <h1>1914 translation by H. Rackham</h1>
+        <p>
+          "But I must explain to you how all this mistaken idea of denouncing
+          pleasure and praising pain was born and I will give you a complete
+          account of the system, and expound the actual teachings of the great
+          explorer of the truth, the master-builder of human happiness. No one
+          rejects, dislikes, or avoids pleasure itself, because it is
+          pleasure, but because those who do not know how to pursue pleasure
+          rationally encounter consequences that are extremely painful. Nor
+          again is there anyone who loves or pursues or desires to obtain pain
+          of itself, because it is pain, but because occasionally
+          circumstances occur in which toil and pain can procure him some
+          great pleasure. To take a trivial example, which of us ever
+          undertakes laborious physical exercise, except to obtain some
+          advantage from it? But who has any right to find fault with a man
+          who chooses to enjoy a pleasure that has no annoying consequences,
+          or one who avoids a pain that produces no resultant pleasure?"
+        </p>
+        <p>
+          "But I must explain to you how all this mistaken idea of denouncing
+          pleasure and praising pain was born and I will give you a complete
+          account of the system, and expound the actual teachings of the great
+          explorer of the truth, the master-builder of human happiness. No one
+          rejects, dislikes, or avoids pleasure itself, because it is
+          pleasure, but because those who do not know how to pursue pleasure
+          rationally encounter consequences that are extremely painful. Nor
+          again is there anyone who loves or pursues or desires to obtain pain
+          of itself, because it is pain, but because occasionally
+          circumstances occur in which toil and pain can procure him some
+          great pleasure. To take a trivial example, which of us ever
+          undertakes laborious physical exercise, except to obtain some
+          advantage from it? But who has any right to find fault with a man
+          who chooses to enjoy a pleasure that has no annoying consequences,
+          or one who avoids a pain that produces no resultant pleasure?"
+        </p>
+        <p>
+          "But I must explain to you how all this mistaken idea of denouncing
+          pleasure and praising pain was born and I will give you a complete
+          account of the system, and expound the actual teachings of the great
+          explorer of the truth, the master-builder of human happiness. No one
+          rejects, dislikes, or avoids pleasure itself, because it is
+          pleasure, but because those who do not know how to pursue pleasure
+          rationally encounter consequences that are extremely painful. Nor
+          again is there anyone who loves or pursues or desires to obtain pain
+          of itself, because it is pain, but because occasionally
+          circumstances occur in which toil and pain can procure him some
+          great pleasure. To take a trivial example, which of us ever
+          undertakes laborious physical exercise, except to obtain some
+          advantage from it? But who has any right to find fault with a man
+          who chooses to enjoy a pleasure that has no annoying consequences,
+          or one who avoids a pain that produces no resultant pleasure?"
+        </p>
+        <p>
+          "But I must explain to you how all this mistaken idea of denouncing
+          pleasure and praising pain was born and I will give you a complete
+          account of the system, and expound the actual teachings of the great
+          explorer of the truth, the master-builder of human happiness. No one
+          rejects, dislikes, or avoids pleasure itself, because it is
+          pleasure, but because those who do not know how to pursue pleasure
+          rationally encounter consequences that are extremely painful. Nor
+          again is there anyone who loves or pursues or desires to obtain pain
+          of itself, because it is pain, but because occasionally
+          circumstances occur in which toil and pain can procure him some
+          great pleasure. To take a trivial example, which of us ever
+          undertakes laborious physical exercise, except to obtain some
+          advantage from it? But who has any right to find fault with a man
+          who chooses to enjoy a pleasure that has no annoying consequences,
+          or one who avoids a pain that produces no resultant pleasure?"
+        </p>
+        <h2>which of us ever undertakes laborious physical exercise</h2>
+        <p>
+          "But I must explain to you how all this mistaken idea of denouncing
+          pleasure and praising pain was born and I will give you a complete
+          account of the system, and expound the actual teachings of the great
+          explorer of the truth, the master-builder of human happiness. No one
+          rejects, dislikes, or avoids pleasure itself, because it is
+          pleasure, but because those who do not know how to pursue pleasure
+          rationally encounter consequences that are extremely painful. Nor
+          again is there anyone who loves or pursues or desires to obtain pain
+          of itself, because it is pain, but because occasionally
+          circumstances occur in which toil and pain can procure him some
+          great pleasure. To take a trivial example, which of us ever
+          undertakes laborious physical exercise, except to obtain some
+          advantage from it? But who has any right to find fault with a man
+          who chooses to enjoy a pleasure that has no annoying consequences,
+          or one who avoids a pain that produces no resultant pleasure?"
+        </p>
+      </td>
+      <td valign="top" bgcolor="green">
+        <ul type="square">
+          <li><a href="">Home</a></li>
+          <li><a href="">Facebook</a></li>
+          <li><a href="">Youtube</a></li>
+          <li><a href="">Contact Us</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr bgcolor="pink">
+      <td colspan="2">@ Copyright 2024</td>
+    </tr>
+  </table>
+  <!--Audio tag-->
+  <audio class="audio1" src="audio/Henry C. - Untitled Project-Henry C-v1.mp3" controls muted></audio><br />
+  <video class="video1" src="video/01. Welcome to Delta!.mp4 - Google Drive.mp4" controls muted></video><br /><br />
+
+  <!-- This is a CSS code block. -->
+
+  <div class="grp1">
+    <h1>Start Learning CSS3</h1>
+    <br />
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime magni
+      dolorum reiciendis tempora. Provident, porro cupiditate, alias
+      perspiciatis doloremque quisquam necessitatibus earum reprehenderit quae
+      quos iste? Autem provident repellat atque? Lorem ipsum dolor, sit amet
+      consectetur adipisicing elit. Maxime magni dolorum reiciendis tempora.
+      Provident, porro cupiditate, alias perspiciatis doloremque quisquam
+      necessitatibus earum reprehenderit quae quos iste? Autem provident
+      repellat atque? Lorem ipsum dolor, sit amet consectetur adipisicing
+      elit. Maxime magni dolorum reiciendis tempora. Provident, porro
+      cupiditate, alias perspiciatis doloremque quisquam necessitatibus earum
+      reprehenderit quae quos iste? Autem provident repellat atque?
+    </p>
+    <br />
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime magni
+      dolorum reiciendis tempora. Provident, porro cupiditate, alias
+      perspiciatis doloremque quisquam necessitatibus earum reprehenderit quae
+      quos iste? Autem provident repellat atque? Lorem ipsum dolor, sit amet
+      consectetur adipisicing elit. Maxime magni dolorum reiciendis tempora.
+      Provident, porro cupiditate, alias perspiciatis doloremque quisquam
+      necessitatibus earum reprehenderit quae quos iste? Autem provident
+      repellat atque? Lorem ipsum dolor, sit amet consectetur adipisicing
+      elit. Maxime magni dolorum reiciendis tempora. Provident, porro
+      cupiditate, alias perspiciatis doloremque quisquam necessitatibus earum
+      reprehenderit quae quos iste? Autem provident repellat atque?
+    </p>
+  </div>
+
+  <div class="practice_outline">
+    <h1>Outline Property</h1>
+    <br />
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime magni
+      dolorum reiciendis tempora. Provident, porro cupiditate, alias
+      perspiciatis doloremque quisquam necessitatibus earum reprehenderit quae
+      quos iste? Autem provident repellat atque? Lorem ipsum dolor, sit amet
+      consectetur adipisicing elit. Maxime magni dolorum reiciendis tempora.
+      Provident, porro cupiditate, alias perspiciatis doloremque quisquam
+      necessitatibus earum reprehenderit quae quos iste? Autem provident
+      repellat atque? Lorem ipsum dolor, sit amet consectetur adipisicing
+      elit. Maxime magni dolorum reiciendis tempora. Provident, porro
+      cupiditate, alias perspiciatis doloremque quisquam necessitatibus earum
+      reprehenderit quae quos iste? Autem provident repellat atque?
+    </p>
+    <br />
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime magni
+      dolorum reiciendis tempora. Provident, porro cupiditate, alias
+      perspiciatis doloremque quisquam necessitatibus earum reprehenderit quae
+      quos iste? Autem provident repellat atque? Lorem ipsum dolor, sit amet
+      consectetur adipisicing elit. Maxime magni dolorum reiciendis tempora.
+      Provident, porro cupiditate, alias perspiciatis doloremque quisquam
+      necessitatibus earum reprehenderit quae quos iste? Autem provident
+      repellat atque? Lorem ipsum dolor, sit amet consectetur adipisicing
+      elit. Maxime magni dolorum reiciendis tempora. Provident, porro
+      cupiditate, alias perspiciatis doloremque quisquam necessitatibus earum
+      reprehenderit quae quos iste? Autem provident repellat atque?
+    </p>
+  </div>
+  <div class="float_property">
+    <div class="box1">
+      <h1>Outline Property</h1>
+      <br />
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime magni
+        dolorum reiciendis tempora. Provident, porro cupiditate, alias
+        perspiciatis doloremque quisquam necessitatibus earum reprehenderit
+        quae quos iste? Autem provident repellat atque? Lorem ipsum dolor, sit
+        amet consectetur adipisicing elit. Maxime magni dolorum reiciendis
+        tempora. Provident, porro cupiditate, alias perspiciatis doloremque
+        quisquam necessitatibus earum reprehenderit quae quos iste? Autem
+        provident repellat atque? Lorem ipsum dolor, sit amet consectetur
+        adipisicing elit. Maxime magni dolorum reiciendis tempora. Provident,
+        porro cupiditate, alias perspiciatis doloremque quisquam
+        necessitatibus earum reprehenderit quae quos iste? Autem provident
+        repellat atque?
+      </p>
+    </div>
+    <div class="box2">
+      <h1>Outline Property</h1>
+      <br />
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime magni
+        dolorum reiciendis tempora. Provident, porro cupiditate, alias
+        perspiciatis doloremque quisquam necessitatibus earum reprehenderit
+        quae quos iste? Autem provident repellat atque? Lorem ipsum dolor, sit
+        amet consectetur adipisicing elit. Maxime magni dolorum reiciendis
+        tempora. Provident, porro cupiditate, alias perspiciatis doloremque
+        quisquam necessitatibus earum reprehenderit quae quos iste? Autem
+        provident repellat atque? Lorem ipsum dolor, sit amet consectetur
+        adipisicing elit. Maxime magni dolorum reiciendis tempora. Provident,
+        porro cupiditate, alias perspiciatis doloremque quisquam
+        necessitatibus earum reprehenderit quae quos iste? Autem provident
+        repellat atque?
+      </p>
+    </div>
+    <div class="box3">
+      <h1>Outline Property</h1>
+      <br />
+      <p>
+        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime magni
+        dolorum reiciendis tempora. Provident, porro cupiditate, alias
+        perspiciatis doloremque quisquam necessitatibus earum reprehenderit
+        quae quos iste? Autem provident repellat atque? Lorem ipsum dolor, sit
+        amet consectetur adipisicing elit. Maxime magni dolorum reiciendis
+        tempora. Provident, porro cupiditate, alias perspiciatis doloremque
+        quisquam necessitatibus earum reprehenderit quae quos iste? Autem
+        provident repellat atque? Lorem ipsum dolor, sit amet consectetur
+        adipisicing elit. Maxime magni dolorum reiciendis tempora. Provident,
+        porro cupiditate, alias perspiciatis doloremque quisquam
+        necessitatibus earum reprehenderit quae quos iste? Autem provident
+        repellat atque?
+      </p>
+    </div>
+  </div>
+  <div class="text_formating">
+    <h1>Outline Property</h1>
+    <br />
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime magni
+      dolorum reiciendis tempora. Provident, porro cupiditate, alias
+      perspiciatis doloremque quisquam necessitatibus earum reprehenderit quae
+      quos iste? Autem provident repellat atque? Lorem ipsum dolor, sit amet
+      consectetur adipisicing elit. Maxime magni dolorum reiciendis tempora.
+      Provident, porro cupiditate, alias perspiciatis doloremque quisquam
+      necessitatibus earum reprehenderit quae quos iste? Autem provident
+      repellat atque? Lorem ipsum dolor, sit amet consectetur adipisicing
+      elit. Maxime magni dolorum reiciendis tempora. Provident, porro
+      cupiditate, alias perspiciatis doloremque quisquam necessitatibus earum
+      reprehenderit quae quos iste? Autem provident repellat atque?
+    </p>
+  </div>
+  <!--class="text_shadow"-->
+  <div class="text_shadow">
+    <h1>Ascend BPO</h1>
+  </div>
+  <!--class="text_shadow"-->
+  <div class="writing_mode">
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi
+      obcaecati repellat saepe dignissimos tenetur libero at, molestiae, atque
+      expedita cumque consectetur officia nam quod modi, beatae eligendi
+      perferendis error numquam? Lorem ipsum dolor sit, amet consectetur
+      adipisicing elit. Animi obcaecati repellat saepe dignissimos tenetur
+      libero at, molestiae, atque expedita cumque consectetur officia nam quod
+      modi, beatae eligendi perferendis error numquam? Lorem ipsum dolor sit.
+    </p>
+  </div>
+  <!--class="column_count"-->
+  <div class="column_count">
+    <h1>
+      Beautiful CSS box-shadow examples With CSS Scan you can easily inspect
+      or copy any website's CSS.
+    </h1>
+    <p>
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi
+      obcaecati repellat saepe dignissimos tenetur libero at, molestiae, atque
+      expedita cumque consectetur officia nam quod modi, beatae eligendi
+      perferendis error numquam? Lorem ipsum dolor sit, amet consectetur
+      adipisicing elit. Animi obcaecati repellat saepe dignissimos tenetur
+      libero at, molestiae, atque expedita cumque consectetur officia nam quod
+      modi, beatae eligendi perferendis error numquam? Lorem ipsum dolor
+      sit.atque expedita cumque consectetur officia nam quod modi, beatae
+      eligendi perferendis error numquam? Lorem ipsum dolor sit, amet
+      consectetur adipisicing elit. Animi obcaecati repellat saepe dignissimos
+      tenetur libero at, molestiae, atque expedita cumque consectetur officia
+      nam quod modi, beatae eligendi perferendis error numquam? Lorem ipsum
+      dolor sit.ipsum dolor sit, amet consectetur adipisicing elit. Animi
+      obcaecati repellat saepe dignissimos tenetur libero at, molestiae, atque
+      expedita cumque consectetur officia nam quod modi, beatae eligendi
+      perferendis error numquam? Lorem ipsum dolor sit.atque expedita cumque
+      consectetur officia nam quod modi, beatae eligendi perferendis error
+      numquam? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi
+      obcaecati repellat saepe dignissimos tenetur libero at, molestiae, atque
+      expedita cumque consectetur officia nam quod modi, beatae eligendi
+      perferendis error numquam? Lorem ipsum dolor sit.ipsum dolor sit, amet
+      consectetur adipisicing elit. Animi obcaecati repellat saepe dignissimos
+      tenetur libero at, molestiae, atque expedita cumque consectetur officia
+      nam quod modi, beatae eligendi perferendis error numquam? Lorem ipsum
+      dolor sit.atque expedita cumque consectetur officia nam quod modi,
+      beatae eligendi perferendis error numquam? Lorem ipsum dolor sit, amet
+      consectetur adipisicing elit. Animi obcaecati repellat saepe dignissimos
+      tenetur libero at, molestiae, atque expedita cumque consectetur officia
+      nam quod modi, beatae eligendi perferendis error numquam? Lorem ipsum
+      dolor sit.
+    </p>
+  </div>
+  <!--class="lsit_styles" -->
+  <div class="lsit_styles">
+    <ul>
+      <li>Pakistan</li>
+      <li>Indian</li>
+      <li>United State of America</li>
+      <li>London</li>
+      <li>Australia</li>
+    </ul>
+    <ol>
+      <li>Sam</li>
+      <li>Harry</li>
+      <li>Troy</li>
+      <li>Mishal Rasheed</li>
+      <li>Mishal Fatima</li>
+    </ol>
+  </div>
+  <!--class="bg_img"-->
+  <div class="bg_img">
+    <div class="txt">
+      <h1>WellCome To Dubai</h1>
+      <p>
+        Dubai is a city and emirate in the United Arab Emirates known for
+        luxury shopping, ultramodern architecture and a lively nightlife
+        scene.
+      </p>
+    </div>
+  </div>
+
+  <!--class="color_shades"-->
+  <div class="color_shades">
+    <div class="a1"></div>
+    <div class="a1"></div>
+    <div class="a1"></div>
+    <div class="a1"></div>
+    <div class="a1"></div>
+  </div>
+  <!--class="gradient"-->
+  <div class="gradient">
+    <h1>WellCome Gradients</h1>
+  </div>
+  <div class="gradient_1">
+    <h1>WellCome Gradients</h1>
+  </div>
+
+  <!--class="display"-->
+  <div class="display">
+    <a href="https://www.facebook.com/" target="_blank">Facebook</a>
+    <a href="https://www.youtube.com/" target="_blank">Youtube</a>
+    <a href="">Contact Us</a>
+    <a href="">FAQs</a>
+    <a href="">Google</a>
+  </div>
+
+  <!--class="visibility"-->
+  <div class="visibility">
+    <h1>Visibility</h1>
+  </div>
+
+  <!--
+*
+*
+*
+*
+    Basic website layout Start-->
+  <div class="wrapper_1">
+    <!--HEADER-->
+    <div class="header">
+      <h1>MISHAL_BLOGS</h1>
+    </div>
+    <!--MENU-->
+    <div class="menu">
+      <a href="">Home</a>
+      <a href="https://www.facebook.com/" target="_blank">Sports</a>
+      <a href="https://www.youtube.com/" target="_blank">News</a>
+      <a href="">How To</a>
+      <a href="contact.html" target="_blank">Contact Us</a>
+      <a href="">About</a>
+      <a href="">FAQs</a>
+    </div>
+    <!--CONTENT-->
+    <div class="content">
+      <!--A1-->
+      <div id="A1">
+        <img src="images/julee-juu-tofTzrNUyxw-unsplash.jpg" alt="" />
+        <h2>
+          <a href="Articles.html" target="_blank">Crypto tycoon Sam Bankman-Fried found guilty on all charges in
+            fraud trial</a>
+        </h2>
+      </div>
+      <!--A2-->
+      <div id="A2">
+        <img src="images/julee-juu-TKpN4D5dsfI-unsplash.jpg" alt="" />
+        <h2>
+          <a href="Articles.html" target="_blank">Crypto tycoon Sam Bankman-Fried found guilty on all charges in
+            fraud trial</a>
+        </h2>
+      </div>
+      <!--A3-->
+      <div id="A3">
+        <img src="images/alex-cooper-c9z5xzb0qCA-unsplash.jpg" alt="" />
+        <h2>
+          <a href="Articles.html" target="_blank">Crypto tycoon Sam Bankman-Fried found guilty on all charges in
+            fraud trial</a>
+        </h2>
+      </div>
+      <!--A4-->
+      <div id="A4">
+        <img src="images/bobby-lovejoy-3ZDaFbuTgi0-unsplash.jpg" alt="" />
+        <h2>
+          <a href="Articles.html" target="_blank">Crypto tycoon Sam Bankman-Fried found guilty on all charges in
+            fraud trial</a>
+        </h2>
+      </div>
+    </div>
+    <!--SIDEBAR-->
+    <div class="sidebar">
+      <a href="">Home</a>
+      <a href="https://www.facebook.com/" target="_blank">Sports</a>
+      <a href="https://www.youtube.com/" target="_blank">News</a>
+      <a href="">How To</a>
+      <a href="contact.html" target="_blank">Contact Us</a>
+      <a href="">About</a>
+      <a href="">FAQs</a>
+    </div>
+    <!--FOOTER-->
+    <div class="footer">
+      <span class="span_1">All rights are reserves to MISHAL_BLOGS @2023-24</span>
+      <span class="span_2">MISHAL_BLOGS</span>
+    </div>
+  </div>
+
+  <!--
+*
+*
+*
+*
+    Basic website layout End-->
+
+  <!--Position and z-index  class="position"-->
+  <div class="position">
+    <div class="box1"></div>
+    <div class="box2"></div>
+    <div class="box3"></div>
+    <div class="box4">
+      <span>Marvin Jasper</span>
+    </div>
+  </div>
+
+  <!-- table properties -->
+
+  <table class="table_c" border="2px">
+    <tr>
+      <th>No.</th>
+      <th>Class</th>
+      <th>Roll number</th>
+      <th>Subject</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>BSc Mechanical Engineering</td>
+      <td>Mohsin Saddique</td>
+      <td>Math</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>BSc Mechanical Engineering</td>
+      <td>Iltija Hussain</td>
+      <td>Math</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>BSc Mechanical Engineering</td>
+      <td>Danish Farooq</td>
+      <td>Math</td>
+    </tr>
+  </table>
+
+  <!--resize peoperty class="resize" -->
+
+  <div class="resize">
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi obcaecati
+    repellat saepe dignissimos tenetur libero at, molestiae, atque expedita
+    cumque consectetur officia nam quod modi, beatae eligendi perferendis
+    error numquam? Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+    Animi obcaecati repellat saepe dignissimos tenetur libero at, molestiae,
+    atque expedita cumque consectetur officia nam quod modi, beatae eligendi
+    perferendis error numquam? Lorem ipsum dolor sit.atque expedita cumque
+    consectetur officia nam quod modi, beatae eligendi perferendis error
+    numquam? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi
+    obcaecati repellat saepe dignissimos tenetur libero at, molestiae, atque
+    expedita cumque consectetur officia nam quod modi, beatae eligendi
+    perferendis error numquam? Lorem ipsum dolor sit.ipsum dolor sit, amet
+    consectetur adipisicing elit. Animi obcaecati repellat saepe dignissimos
+    tenetur libero at, molestiae, atque expedita cumque consectetur officia
+    nam quod modi, beatae eligendi perferendis error numquam? Lorem ipsum
+    dolor sit.atque expedita cumque consectetur officia nam quod modi, beatae
+    eligendi perferendis error numquam? Lorem ipsum dolor sit, amet
+    consectetur adipisicing elit. Animi obcaecati repellat saepe dignissimos
+    tenetur libero at, molestiae, atque expedita cumque consectetur officia
+    nam quod modi, beatae eligendi perferendis error numquam? Lorem ipsum
+    dolor sit.ipsum dolor sit, amet consectetur adipisicing elit. Animi
+    obcaecati repellat saepe dignissimos tenetur libero at, molestiae, atque
+    expedita cumque consectetur officia nam quod modi, beatae eligendi
+    perferendis error numquam? Lorem ipsum dolor sit.atque expedita cumque
+    consectetur officia nam quod modi, beatae eligendi perferendis error
+    numquam? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Animi
+    obcaecati repellat saepe dignissimos tenetur libero at, molestiae, atque
+    expedita cumque consectetur officia nam quod modi, beatae eligendi
+    perferendis error numquam? Lorem ipsum dolor sit.
+  </div>
+  <!-- calc property class="calc_main"-->
+  <div class="calc_main">
+    <div>Header</div>
+    <div>Content</div>
+    <div>Footer</div>
+  </div>
+
+  <!-- Transition property class="transition_property" -->
+  <div class="transition_property">
+    <div><span>Arooj Ihsan (100%)</span></div>
+    <div>Ayesha Jameel (20%)</div>
+    <div>Zeenat (90%)</div>
+  </div>
+
+  <!-- transform 3d class="transform3d" -->
+  <div class="transform3d">
+    <div>Rotate_X</div>
+    <div>Rotate_Y</div>
+    <div>Rotate_Z/X</div>
+    <div>Translate_Z</div>
+    <div>Scale_Z</div>
+  </div>
+
+  <!-- Object_fit property class="obj_fit_prop" -->
+  <div class="obj_fit_prop">
+    <div>
+      <img src="images/alex-cooper-jPD-Cx27Fyg-unsplash.jpg" alt="" />
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam magni
+        quis consequatur nemo optio sapiente reiciendis voluptatem,
+        perferendis rem vel, possimus quas, molestias deleniti aliquid omnis
+        modi fugit. Sequi, maiores?
+      </p>
+    </div>
+    <div>
+      <img src="images/b1.jpg" alt="" />
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam magni
+        quis consequatur nemo optio sapiente reiciendis voluptatem,
+        perferendis rem vel, possimus quas, molestias deleniti aliquid omnis
+        modi fugit. Sequi, maiores?
+      </p>
+    </div>
+    <div>
+      <img src="images/azamat-zhanisov-2CpkjZ9Lg8s-unsplash.jpg" alt="" />
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam magni
+        quis consequatur nemo optio sapiente reiciendis voluptatem,
+        perferendis rem vel, possimus quas, molestias deleniti aliquid omnis
+        modi fugit. Sequi, maiores?
+      </p>
+    </div>
+  </div>
+  <!--pseudo class :target class="trg" -->
+  <div class="trg">
+    <h2><a href="#Q1">What is falanah ?</a></h2>
+    <h2><a href="#Q2">What is banana?</a></h2>
+    <h2><a href="#Q3">What is watermalen?</a></h2>
+    <p id="Q1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quibusdam repellendus earum voluptatum sequi
+      cum
+      maiores expedita nam repudiandae, quia alias nobis provident voluptatem atque odit consequatur quasi ex aperiam
+      magnam. Soluta quisquam laborum, porro inventore laboriosam veritatis cum ea quibusdam atque quaerat sed eius
+      rerum enim commodi perspiciatis explicabo ullam repellat! Consequuntur quis ipsum exercitationem magnam excepturi
+      laboriosam illo quisquam distinctio culpa aliquid ex hic tenetur recusandae repudiandae unde animi aperiam, et
+      laborum! Nihil similique magni molestiae dicta odit.</p>
+    <p id="Q2"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quibusdam repellendus earum voluptatum
+      sequi cum
+      maiores expedita nam repudiandae, quia alias nobis provident voluptatem atque odit consequatur quasi ex aperiam
+      magnam. Soluta quisquam laborum, porro inventore laboriosam veritatis cum ea quibusdam atque quaerat sed eius
+      rerum enim commodi perspiciatis explicabo ullam repellat! Consequuntur quis ipsum exercitationem magnam excepturi
+      laboriosam illo quisquam distinctio culpa aliquid ex hic tenetur recusandae repudiandae unde animi aperiam, et
+      laborum! Nihil similique magni molestiae dicta odit.</p>
+    <p id="Q3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo quibusdam repellendus earum voluptatum sequi
+      cum
+      maiores expedita nam repudiandae, quia alias nobis provident voluptatem atque odit consequatur quasi ex aperiam
+      magnam. Soluta quisquam laborum, porro inventore laboriosam veritatis cum ea quibusdam atque quaerat sed eius
+      rerum enim commodi perspiciatis explicabo ullam repellat! Consequuntur quis ipsum exercitationem magnam excepturi
+      laboriosam illo quisquam distinctio culpa aliquid ex hic tenetur recusandae repudiandae unde animi aperiam, et
+      laborum! Nihil similique magni molestiae dicta odit.</p>
+  </div>
+  <!--  Counter reset, Counter increament , counter , pseudo after and before class="counter_prt" -->
+  <div class="counter_prt">
+    <h1>Ascend BPO</h1>
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae doloribus, aspernatur laboriosam quos esse modi
+      veritatis impedit nam cumque nemo assumenda fuga. Dolor, obcaecati incidunt. Natus perferendis delectus architecto
+      maxime?</p>
+
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae doloribus, aspernatur laboriosam quos esse modi
+      veritatis impedit nam cumque nemo assumenda fuga. Dolor, obcaecati incidunt. Natus perferendis delectus architecto
+      maxime?</p>
+
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae doloribus, aspernatur laboriosam quos esse modi
+      veritatis impedit nam cumque nemo assumenda fuga. Dolor, obcaecati incidunt. Natus perferendis delectus architecto
+      maxime?</p>
+
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae doloribus, aspernatur laboriosam quos esse modi
+      veritatis impedit nam cumque nemo assumenda fuga. Dolor, obcaecati incidunt. Natus perferendis delectus architecto
+      maxime?</p>
+
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae doloribus, aspernatur laboriosam quos esse modi
+      veritatis impedit nam cumque nemo assumenda fuga. Dolor, obcaecati incidunt. Natus perferendis delectus architecto
+      maxime?</p>
+
+  </div>
+
+  <div class="counter_prt_2">
+    <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h2>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <hr>
+    <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h2>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <hr>
+    <h2>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h2>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+    <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+  </div>
+
+  <div class="counter_3">
+    <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic ullam rerum labore accusamus vero. Velit
+      non doloremque eveniet minima excepturi numquam assumenda illo officiis aperiam sit distinctio magnam delectus,
+      ad, neque nemo quae minus repudiandae id eum! Voluptas, tempora?</p>
+
+    <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic ullam rerum labore accusamus vero. Velit
+      non doloremque eveniet minima excepturi numquam assumenda illo officiis aperiam sit distinctio magnam delectus,
+      ad, neque nemo quae minus repudiandae id eum! Voluptas, tempora?</p>
+
+    <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic ullam rerum labore accusamus vero. Velit
+      non doloremque eveniet minima excepturi numquam assumenda illo officiis aperiam sit distinctio magnam delectus,
+      ad, neque nemo quae minus repudiandae id eum! Voluptas, tempora?</p>
+
+    <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic ullam rerum labore accusamus vero. Velit
+      non doloremque eveniet minima excepturi numquam assumenda illo officiis aperiam sit distinctio magnam delectus,
+      ad, neque nemo quae minus repudiandae id eum! Voluptas, tempora?</p>
+
+    <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium hic ullam rerum labore accusamus vero. Velit
+      non doloremque eveniet minima excepturi numquam assumenda illo officiis aperiam sit distinctio magnam delectus,
+      ad, neque nemo quae minus repudiandae id eum! Voluptas, tempora?</p>
+
+  </div>
+
+  <!-- Icon Fonts by font awesomes class="social_icon_fonts" -->
+  <div class="social_icon_fonts">
+    <a href=""><i class="fi fi-brands-whatsapp"></i></a>
+    <a href=""><i class="fi fi-brands-facebook"></i></a>
+    <a href=""><i class="fi fi-brands-youtube"></i></a>
+    <a href=""><i class="fi fi-brands-twitter"></i></a>
+    <a href=""><i class="fa-solid fa-bell"></i></a>
+  </div>
+
+  <!-- Grid Tutorials class="grid_container" -->
+  <div class="grid_body_container">
+    <div class="main_menu">
+      <div class="logo">Youtube</div>
+      <div class="search">
+        <input type="search" placeholder="Search">
+      </div>
+      <div class="container1">
+        <div class="items video"><i class="fa-solid fa-video"></i></div>
+        <div class="items notification"><i class="fa-solid fa-bell"></i></div>
+        <div class="items  profile"></div>
+      </div>
+    </div>
+
+    <div class="grid_container">
+
+      <div class="items items1">Video 1</div>
+      <div class="items items2">Video 2</div>
+      <div class="items items3">Video 3</div>
+      <div class="items items4">Video 4</div>
+      <div class="items items5">Video 5</div>
+      <div class="items items6">Video 6</div>
+      <div class="items items7">Video 7</div>
+      <div class="items items8">Video 8</div>
+      <div class="items items9">Video 9</div>
+      <div class="items items10">Video 10</div>
+      <div class="items items11">Video 11</div>
+      <div class="items items12">Video 12</div>
+    </div>
+  </div>
+
+  <!-- Grid positioning-->
+  <div class="grid_posi">
+    <div class="item items1">Header</div>
+    <div class="item items2">Main_Menu</div>
+    <div class="item items3">Content</div>
+    <div class="item items4">Side_Bar</div>
+    <div class="item items5">Footer</div>
+
+  </div>
+  <!-- Grid Template Areas class="grid_temp_areas"-->
+  <div class="grid_temp_areas">
+    <div class="item header">Header</div>
+    <div class="item menu">
+      <a href="">Home</a>
+      <a href="">Education</a>
+      <a href="">Experience</a>
+      <a href="">Projects</a>
+      <a href="">Contact Us</a>
+    </div>
+    <div class="item box1">Box1</div>
+    <div class="item box2">Box2</div>
+    <div class="item box3">Box3</div>
+    <div class="item content">Content</div>
+    <div class="item sidebar">Sidebar</div>
+    <div class="item footer">Footer</div>
+  </div>
+
+<!-- Grid spanning class="grid_spanning_container" -->
+<div class="grid_spanning_container">
+  <div class="item items1">One</div>
+  <div class="item items2">Two</div>
+  <div class="item items3">Three</div>
+  <div class="item items4">Four</div>
+  <div class="item items5">Five</div>
+  <div class="item items6">Six</div>
+  <div class="item items7">Seven</div>
+  <div class="item items8">Eight</div>
+</div>
+<!-- Grid Impilicit / Explicit class="impli_expli" -->
+
+<div class="impli_expli">
+  <div class="item">1</div>
+  <div class="item">2</div>
+  <div class="item">3</div>
+  <div class="item">4</div>
+  <div class="item">5</div>
+  <div class="item">6</div>
+  <div class="item">7</div>
+  <div class="item">8</div>
+
+</div>
+<div class="impli_2">
+    <span>Login</span>
+  <input type="text" name="" id="first_name" placeholder="First Name"><br>
+  <input type="text" name="" id="last_name" placeholder="Last Name" ><br>
+  <input type="email" name="" id="email" placeholder="Email" >
+  <input type="password" name="" id="password" placeholder="Password"><br><br>
+  &nbsp;&nbsp;&nbsp;<input type="radio" name="gender" id="male"> &nbsp;&nbsp;<label for="male">Male</label> | 
+  <input type="radio" name="gender" id="female">&nbsp;&nbsp;<label for="female">Female</label><br><br><br>
+  <input type="submit" value="Submit" placeholder="Submit">
+</div>
+
+
+
+</body>
+
+</html>
+
+
